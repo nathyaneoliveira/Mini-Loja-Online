@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nome": "Camiseta Geek", "preco": 50.0, "categoria": "roupa" },
+  { "id": 2, "nome": "Caneca Python", "preco": 30.0, "categoria": "acessorio" },
+  { "id": 3, "nome": "Mouse Gamer", "preco": 120.0, "categoria": "eletronico" },
+  { "id": 4, "nome": "Teclado Mecânico", "preco": 250.0, "categoria": "eletronico" },
+  { "id": 5, "nome": "Boné Estiloso", "preco": 45.0, "categoria": "roupa" }
+]
